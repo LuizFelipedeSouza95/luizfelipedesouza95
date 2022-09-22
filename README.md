@@ -13,6 +13,7 @@
   <img alt="lfs-HTML" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img alt="lfs-HTML" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img alt="lfs-HTML" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img alt="lfs-HTML" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
   
 ## Social networks
