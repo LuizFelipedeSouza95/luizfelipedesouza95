@@ -11,7 +11,7 @@
   </div>
   <br>
 
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/luizfelipedesouza95/luizfelipedesouza95/blob/output/github-contribution-grid-snake.svg)
   <br>
 
   <h3 style= "font-family:'Open Sans'; font-size:40px">🚀 Some Tools I Use</h1>
@@ -34,3 +34,5 @@
     <!-- <a href="https://instagram.com/luizfelipedesouza95" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
     <a href="https://www.linkedin.com/in/luizfelipedesouza95/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>
+
+<!--   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=luizfelipedesouza95&repo=luizfelipedesouza95&theme=react)](https://github.com/luizfelipedesouza95) -->
