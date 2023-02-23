@@ -1,20 +1,36 @@
-  <h1 style= "font-family:'Open Sans'">My name is Luiz Felipe</h1>
+<!--   <h1 style= "font-family:'Open Sans'">My name is Luiz Felipe</h1> -->
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=luizfelipedesouza95.luizfelipedesouza95">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+guys!+👋;+My+name+is+Luiz+Felipe;&center=true&size=30">
+  </a>
+</h1>
 
   <!-- <li>📙 Check out my <a href="https://luizfelipedesouza95.github.io/resume/">resume</a>.</li> -->
- <p style= "font-family:'Open Sans'; font-size:20px">I've been studying in the IT area for over two years, I'm currently working at <a href="https://www.linkedin.com/company/tech4humans-brasil/" target="_blank">Tech4Humans</a> as a Systems Analyst.</p>
+ <p style= "font-family:'Open Sans'; font-size:20px" align="center">I've been studying in the IT area for over two years, I'm currently working at <a href="https://www.linkedin.com/company/tech4humans-brasil/" target="_blank">Tech4Humans</a> as a Systems Analyst.</p>
  <br>
   
-  <div>
+  <div align="center">
     <a href="https://github.com/luizfelipedesouza95">
     <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=luizfelipedesouza95&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
     <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipedesouza95&layout=compact&langs_count=7&theme=react" />
   </div>
   <br>
 
-  ![snake gif](https://github.com/LuizFelipedeSouza95/LuizFelipedeSouza95/blob/output/github-contribution-grid-snake.gif)
+  <div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/luizfelipedesouza95/luizfelipedesouza95/blob/output/github-contribution-grid-snake.svg">
+  <br>
+  <br>
+  <br>
+</div>
+ <!--  ![snake gif](https://github.com/luizfelipedesouza95/luizfelipedesouza95/blob/output/github-contribution-grid-snake.gif) -->
   <br>
 
-  <h3 style= "font-family:'Open Sans'; font-size:40px">🚀 Some Tools I Use</h1>
+  <h3 style= "font-family:'Open Sans'; font-size:40px" align="center">🚀 Some Tools I Use</h1>
 
   <div align="center"><br>
     <img alt="lfs-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,7 +44,7 @@
   </div>
 
   <br>
-  <h3 style= "font-family:'Open Sans'; font-size:40px">🌐 Social networks</h1>
+  <h3 style= "font-family:'Open Sans'; font-size:40px" align="center">🌐 Social networks</h1>
 
   <div align="center"><br>
     <!-- <a href="https://instagram.com/luizfelipedesouza95" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
