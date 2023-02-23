@@ -1,8 +1,7 @@
   <h1 style= "font-family:'Open Sans'">My name is Luiz Felipe</h1>
-  <h3 style= "font-family:'Open Sans'">
 
-  ### I've been studying in the IT area for over two years, I'm currently working at [Tech4Humans](https://www.linkedin.com/company/tech4humans-brasil/) as a Systems Analyst.</h3>
   <!-- <li>📙 Check out my <a href="https://luizfelipedesouza95.github.io/resume/">resume</a>.</li> -->
+ <p style= "font-family:'Open Sans'; font-size:20px">I've been studying in the IT area for over two years, I'm currently working at <a href="https://www.linkedin.com/company/tech4humans-brasil/" target="_blank" rel="noopener noreferrer">Tech4Humans</a> as a Systems Analyst.</p>
  <br>
   
   <h3 style= "font-family:'Open Sans'; font-size:40px">🚀 Some Tools I Use</h1>
