@@ -24,11 +24,12 @@
   <br>
   <img alt="snake eating my contribution" src="https://github.com/luizfelipedesouza95/luizfelipedesouza95/blob/output/github-contribution-grid-snake.svg">
 </div> -->
-  <div align="center">
+<!--   <div align="center">
   <img src="https://raw.githubusercontent.com/luizfelipedesouza95/luizfelipedesouza95/output/github-contribution-grid-snake.svg" />
-  </div>
+  </div> -->
 
-  ![snake gif](https://github.com/luizfelipedesouza95/luizfelipedesouza95/blob/output/github-contribution-grid-snake.gif)
+  ![Snake Animation](https://raw.githubusercontent.com/luizfelipedesouza95/luizfelipedesouza95/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![Snake Animation](https://raw.githubusercontent.com/luizfelipedesouza95/luizfelipedesouza95/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   <br>
 
   <h3 style= "font-family:'Open Sans'; font-size:40px" align="center">🚀 Some Tools I Use</h1>
