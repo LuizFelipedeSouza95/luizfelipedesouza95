@@ -28,8 +28,8 @@
   <img src="https://raw.githubusercontent.com/luizfelipedesouza95/luizfelipedesouza95/output/github-contribution-grid-snake.svg" />
   </div> -->
 
-  ![Snake Animation](https://raw.githubusercontent.com/luizfelipedesouza95/luizfelipedesouza95/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-  ![Snake Animation](https://raw.githubusercontent.com/luizfelipedesouza95/luizfelipedesouza95/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![Snake Animation](https://raw.githubusercontent.com/LuizFelipedeSouza95/LuizFelipedeSouza95/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![Snake Animation](https://raw.githubusercontent.com/LuizFelipedeSouza95/LuizFelipedeSouza95/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   <br>
 
   <h3 style= "font-family:'Open Sans'; font-size:40px" align="center">🚀 Some Tools I Use</h1>
