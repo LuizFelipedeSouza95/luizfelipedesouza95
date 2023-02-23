@@ -1,7 +1,3 @@
-<!--   <h1 style= "font-family:'Open Sans'">My name is Luiz Felipe</h1> -->
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=luizfelipedesouza95.luizfelipedesouza95">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+guys!+👋;+My+name+is+Luiz+Felipe;&center=true&size=30">
@@ -12,22 +8,21 @@
  <p style= "font-family:'Open Sans'; font-size:20px" align="center">I've been studying in the IT area for over two years, I'm currently working at <a href="https://www.linkedin.com/company/tech4humans-brasil/" target="_blank">Tech4Humans</a> as a Systems Analyst.</p>
  <br>
   
+  <h2 align="center">⚡ Stats ⚡</h2>
+  <br>
   <div align="center">
     <a href="https://github.com/luizfelipedesouza95">
-    <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=luizfelipedesouza95&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=luizfelipedesouza95&layout=compact&langs_count=7&theme=react" />
     <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipedesouza95&layout=compact&langs_count=7&theme=react" />
+    <!-- <img height="180em"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luizfelipedesouza95&layout=compact&langs_count=7&theme=react"/> -->
   </div>
   <br>
 
   <div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br>
+  <!-- <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br> -->
   <img alt="snake eating my contribution" src="https://github.com/luizfelipedesouza95/luizfelipedesouza95/blob/output/github-contribution-grid-snake.svg">
-  <br>
-  <br>
-  <br>
 </div>
- <!--  ![snake gif](https://github.com/luizfelipedesouza95/luizfelipedesouza95/blob/output/github-contribution-grid-snake.gif) -->
   <br>
 
   <h3 style= "font-family:'Open Sans'; font-size:40px" align="center">🚀 Some Tools I Use</h1>
