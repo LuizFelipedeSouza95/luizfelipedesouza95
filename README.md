@@ -4,8 +4,10 @@
   </a>
 </h1>
 
-  <!-- <li>📙 Check out my <a href="https://luizfelipedesouza95.github.io/resume/">resume</a>.</li> -->
- <p style= "font-family:'Open Sans'; font-size:20px" align="center">I've been studying in the IT area for over two years, I'm currently working at <a href="https://www.linkedin.com/company/tech4humans-brasil/" target="_blank">Tech4Humans</a> as a Systems Analyst.</p>
+  <div style= "font-family:'Open Sans'; font-size:20px" align="center">
+ <p>I've been studying in the IT area for over two years, I'm currently working at <a href="https://www.linkedin.com/company/tech4humans-brasil/" target="_blank">Tech4Humans</a> as a Systems Analyst.</p>
+  <li>📙 Check out my <a href="https://resume-current.web.app/">resume</a>.</li>
+  </div>
  <br>
   
   <h2 align="center" style= "font-family:'Open Sans'; font-size:30px">⚡ Stats ⚡</h2>
