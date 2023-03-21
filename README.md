@@ -13,13 +13,16 @@
   <h2 align="center" style= "font-family:'Open Sans'; font-size:30px">⚡ Stats ⚡</h2>
   <br>
   <div align="center">
-    <a href="https://github.com/luizfelipedesouza95">
-    <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=luizfelipedesouza95&layout=compact&theme=react" />
-    <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipedesouza95&layout=compact&langs_count=7&theme=react" />
+  <a href="https://github.com/luizfelipedesouza95/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipedesouza95&layout=compact&theme=dark" />
+  </a>
+  <a href="https://github.com/luizfelipedesouza95/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizfelipedesouza95&count_private=true&show_icons=true&theme=dark" />
+  </a>
   </div>
   
-<!--     <img height="180em"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luizfelipedesouza95&layout=compact&langs_count=7&theme=react"/>
-    <img height="180em"  align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizfelipedesouza95" /> -->
+  <!--     <img height="180em"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luizfelipedesouza95&layout=compact&langs_count=7&theme=react"/>
+      <img height="180em"  align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizfelipedesouza95" /> -->
 
   <br>
 
