@@ -5,7 +5,7 @@
 </h1>
 
   <div style= "font-family:'Open Sans'; font-size:20px" align="center">
- <p>I've been studying in the IT area for over two years, I'm currently working at <a href="https://www.linkedin.com/company/tech4humans-brasil/" target="_blank">Tech4Humans</a> as a Systems Analyst.</p>
+ <p>I've been studying in the IT area for over two years, I'm currently working at <a href="https://www.tech4h.com.br/" target="_blank">Tech4Humans</a> as a Systems Analyst.</p>
   <li>📙 Check out my <a href="https://resume-current.web.app/">resume</a>.</li>
   </div>
  <br>
